@@ -1,5 +1,5 @@
 // ITP 365 Spring 2019
-// LP5 – Recursion
+// LP5 â€“ Recursion
 // Name: Izzy Rees
 // Email: ttrojan@usc.edu
 // Platform: PC
